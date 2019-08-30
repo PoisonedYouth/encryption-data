@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: encryption.data
+---
+testFramework: junit
+sourceLanguage: java
